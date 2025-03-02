@@ -1,6 +1,6 @@
 public class SmallestNumber {
     public static int getSmallest(int nums[]){
-        int smallest = Integer.MAX_VALUE;
+        int smallest = Integer.MAX_VALUE; // + infinity
 
         for(int i=0; i<nums.length; i++){
             if(smallest > nums[i]){

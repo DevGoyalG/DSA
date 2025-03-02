@@ -1,6 +1,6 @@
 public class LargestNumber {
     public static int getLargest(int nums[]){
-        int largest = Integer.MIN_VALUE;
+        int largest = Integer.MIN_VALUE; // - infinity
 
         for(int i=0; i<nums.length; i++){
             if(largest < nums[i]){
