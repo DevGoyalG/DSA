@@ -1,4 +1,4 @@
-public class PrintSubArray{
+public class SubArray{
     public static void printSubArray(int nums[]){
         // total subarrays
         int ts = 0;
