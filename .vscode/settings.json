@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
         "1. Arrays",
+        "0.5. Functions and Methods",
         "0.4. Loops",
         "0.3. Conditional Statement",
         "0.2. Operators",
         "0.1. Variable & Data Structure",
-        "0.5. Functions and Methods"
+        "0.6. Patterns/0.6.3. Star Patterns"
     ]
 }
