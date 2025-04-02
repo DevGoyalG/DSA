@@ -13,5 +13,7 @@ public class Factorial {
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
         System.out.println("Factorial of " + n + " is: "+ fact(n));
+
+        sc.close();
     }
 }
