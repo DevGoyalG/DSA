@@ -18,5 +18,6 @@ public class CrossPattern {
             // Move to the next line after each row
             System.out.println();
         }
+        sc.close();
     }
 }
