@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TrianglePattern {
+public class UpwardTrianglePattern {
     public static void main(String[] args) {
         // one line
         Scanner sc = new Scanner(System.in);
