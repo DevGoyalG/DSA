@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "1. Arrays",
+        "0.3. Conditional Statement",
         "0.2. Operators",
         "0.1. Variable & Data Structure",
-        "0.3. Conditional Statement"
+        "0.4. Loops"
     ]
 }
