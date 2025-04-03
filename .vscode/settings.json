@@ -8,5 +8,6 @@
         "0.2. Operators",
         "0.1. Variable & Data Structure",
         "2. Sorting"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
