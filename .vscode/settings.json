@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "2. Sorting",
         "1. Arrays",
         "0.6. Patterns/0.6.3. Star Patterns",
         "0.5. Functions and Methods",
@@ -7,7 +8,7 @@
         "0.3. Conditional Statement",
         "0.2. Operators",
         "0.1. Variable & Data Structure",
-        "2. Sorting"
+        "3. 2D Arrays"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
