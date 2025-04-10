@@ -12,7 +12,7 @@ public class IncomeTaxCalculator {
 
         if(income < 500000){
             tax = 0;
-            System.out.println(tax = 0);
+            System.out.println(tax);
         }
 
         else if(income >=500000 && income < 1000000){
