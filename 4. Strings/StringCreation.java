@@ -11,5 +11,14 @@ public class StringCreation {
         System.out.print("Write something: ");
         String name = sc.nextLine();
         System.out.println(name);
+
+        // length of string
+        System.out.println(name.length());
+
+        // string concatenantion
+        String s1 = "Mumbai";
+        String s2 = "Indians";
+        String s = s1 + " " + s2;
+        System.out.println(s);
     }
 }
