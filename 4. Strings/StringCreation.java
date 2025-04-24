@@ -20,5 +20,14 @@ public class StringCreation {
         String s2 = "Indians";
         String s = s1 + " " + s2;
         System.out.println(s);
+
+        // string comparison
+        String ss1 = "Rohit";
+        String ss2 = "Rohit";
+        if(ss1.equals(ss2)){
+            System.out.println("String same");
+        } else{
+            System.out.println("String not same");
+        }
     }
 }
